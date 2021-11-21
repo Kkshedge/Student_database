@@ -1,0 +1,8 @@
+POST  http://localhost:3001/add-new-student
+Content-Type: application/json
+
+{
+    "studentName":"Krishnakant Shedge",
+    "regNo":"201900327",
+    "marks":"50"
+}
